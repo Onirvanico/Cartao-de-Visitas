@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Visit cards</string>
+    <string name="bot_o_de_adicionar_cart_o_de_visita">Add business card button</string>
+    <string name="visit_card_rs">Visit cards</string>
+    <string name="cd_bt_close">Close button</string>
+    <string name="hint_username">Name</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_company_name">Company name</string>
+    <string name="hint_color">Color</string>
+    <string name="bt_finalize_rs">Finalize</string>
+    <string name="label_new_card_rs">New Card</string>
+    <string name="label_share">Share</string>
+</resources>

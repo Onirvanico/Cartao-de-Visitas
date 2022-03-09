@@ -11,6 +11,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CartãoDeVisitas">
         <activity
+            android:name=".ui.CreateBusinessCard"
+            android:exported="false" />
+        <activity
             android:name=".ui.MainActivity"
             android:exported="true">
             <intent-filter>
